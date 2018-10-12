@@ -6,6 +6,4 @@
  * Time: 1:09 PM
  */
 
-echo "test";
-
-echo "test branch from branch";
+echo "crate first branch";
